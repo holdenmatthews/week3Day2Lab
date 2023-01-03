@@ -1,0 +1,52 @@
+
+h1 {
+    color: rgb(218, 115, 46);
+    text-align: center;
+    background-color: rgb(15, 15, 71);
+    border-radius: 10px;
+}
+
+h3 {
+    color: white;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 50px;
+    border: solid white 20px;
+    border-radius: 15px;
+}
+
+div {
+    height: 36px;
+    width: 160px;
+    background-color: grey;
+    color: wheat;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 90px;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/1939439.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+p {
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+span {
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 7px;
+}
+
